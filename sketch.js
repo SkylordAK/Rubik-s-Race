@@ -45,7 +45,6 @@ function makePattern() {
 	}
 }
 function draw() {
-	let d = new Date()
 	background(112, 44, 123)
 	push()
 	textSize(20)
